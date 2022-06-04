@@ -1,2 +1,2 @@
-Core Java Project
+CoreJavaProject
 
